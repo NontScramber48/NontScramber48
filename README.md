@@ -1,6 +1,6 @@
 # Hi, I'm NontScramber48 👋
 
-**Full-stack Web Developer** — I build business web apps with **Vue**, **Supabase** and **Firebase**: production reporting, tracking systems, admin dashboards and LINE LIFF apps.
+**Full-stack Web Developer · System Analyst** — I build business web apps with **Vue**, **Supabase** and **Firebase**: production reporting, tracking systems, admin dashboards and LINE LIFF apps.
 
 🌐 **Portfolio:** [nontscramber48.github.io](https://nontscramber48.github.io)
 
@@ -20,6 +20,16 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+
+## 💼 Professional work at BDA
+
+Internal company projects (code not public).
+
+| Client | Project | Role |
+|---|---|---|
+| PEA — Provincial Electricity Authority | Intelligent Customer Services (ICS) | System Analyst |
+| PEA — Provincial Electricity Authority | Work Order Management (WOM) | System Analyst |
+| Sriphat Medical Center | Sriphat Care U | Full Stack Developer + System Analyst |
 
 ## ⭐ Featured projects
 
