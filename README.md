@@ -30,6 +30,8 @@ Internal company projects (code not public).
 | PEA — Provincial Electricity Authority | Intelligent Customer Services (ICS) | System Analyst |
 | PEA — Provincial Electricity Authority | Work Order Management (WOM) | System Analyst |
 | AOT — Airports of Thailand | SAT-1 | System Analyst |
+| CMU — Chiang Mai University | CMU-Funds | System Analyst |
+| CMU — Chiang Mai University | CMU-Smart Asset | System Analyst |
 | Sriphat Medical Center | Sriphat Care U | Full Stack Developer + System Analyst |
 
 ## ⭐ Featured projects
