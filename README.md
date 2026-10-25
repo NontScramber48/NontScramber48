@@ -29,6 +29,7 @@ Internal company projects (code not public).
 |---|---|---|
 | PEA — Provincial Electricity Authority | Intelligent Customer Services (ICS) | System Analyst |
 | PEA — Provincial Electricity Authority | Work Order Management (WOM) | System Analyst |
+| AOT — Airports of Thailand | SAT-1 | System Analyst |
 | Sriphat Medical Center | Sriphat Care U | Full Stack Developer + System Analyst |
 
 ## ⭐ Featured projects
